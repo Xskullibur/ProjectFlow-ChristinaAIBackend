@@ -1,0 +1,20 @@
+# ignore workspace
+.idea/*
+
+# ignore cache
+__pycache__/
+
+# ignore compiled file
+*.pyc
+
+# ignore venv
+venv/
+
+# models
+models/
+
+# misc
+misc/
+
+# outputs
+outputs
